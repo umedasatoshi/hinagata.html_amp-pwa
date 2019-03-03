@@ -1,9 +1,9 @@
 {
-  "short_name": "curogo",
-  "name": "curogo",
+  "short_name": "example",
+  "name": "example",
   "theme_color": "#000000",
   "background_color": "#e0e0e0",
-  "start_url": "https://curogo.com/",
+  "start_url": "https://example.com/",
   "display": "minimal-ui",
   "orientation": "portrait",
   "icons": [
